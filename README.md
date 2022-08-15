@@ -24,6 +24,11 @@ git push -u origin master
 ```  
 
 # Connection Between Local and Remote Repository   
+## You have to make a local folder or repository using your cmd  
+```
+mkdir folder name
+```  
+
 1. # Check remote connection:-  
 ```
 git remote
@@ -32,6 +37,11 @@ or
 ```
 git remote -v
 ```  
+# To check Whether the git is init or not  
+```
+git init
+```  
+
 2. # Make Connection:-  
 ```
 git remote add name <REMOTE_URL>
