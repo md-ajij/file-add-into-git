@@ -38,5 +38,5 @@ git remote add name <REMOTE_URL>
 ```  
 # Example:  
 ```
-git remote add origin http://github.com/md-ajjj-file-add-into-git.git
+git remote add origin http://github.com/md-ajjj/file-add-into-git.git
 ```  
