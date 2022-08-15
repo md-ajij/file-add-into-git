@@ -1,57 +1,58 @@
 # file-add-into-git
 How to folder and file push into github  
 ## you have open VS Code or cmd and open folder  
-### To check git status  
+### 1. To check git status  
 ```
 git status
 ```  
 
 
-1.
+## 2.
 
 ```
 git init
 ```  
-
+## 3.
 ```
 git add file name with extension
 ```  
 or  
-## 1.1 If you push folder then enter the following command on VS Code or cmd  
+## 3.1 If you push folder then enter the following command on VS Code or cmd  
 
 
 ```
 git add .
 ```  
-## 3. git Commit:-  
+## 4. git Commit:-  
 
 ```
 git commit -m "File and folder insert intto github"
 ```  
-## 4. For git Status:-  
+## 5. For git Status:-  
 ```
 git status
 ```  
-## 5. To see git commit enter the following comand:-  
+## 6. To see git commit enter the following comand:-  
 ```
 git log
 ```  
 or  
 
-### 5.1 
+### 6.1 
 ```
 git log --oneline
 ```  
-## 6. 
+## 7. 
 ```
 git status
 ```  
 
-4.
+## 8. To add the file or folder into remote repository  
+
 ```
 git remote add origin https://github.com/repositorey name dite hobe
 ```  
-5.
+## 9.To push file and folder into Remote Repository  
 ```
 git push -u origin master
 ```  
