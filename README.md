@@ -24,10 +24,29 @@ git push -u origin master
 ```  
 
 # Connection Between Local and Remote Repository   
-## You have to make a local folder or repository using your cmd  
+## You have to make a local folder or repository using your cmd like file-add-into-git
 ```
-mkdir folder name
+mkdir folder name 
 ```  
+```
+mkdir file-add-into-git
+```  
+# Now you have to move into the file-add-into-git by using the following comand  
+```
+cd file-add-into-git
+```  
+# To check Whether the git is initialize or not  
+
+```
+git status
+```  
+
+
+# To make git initialize 
+```
+git init
+```  
+
 
 1. # Check remote connection:-  
 ```
@@ -37,10 +56,7 @@ or
 ```
 git remote -v
 ```  
-# To check Whether the git is init or not  
-```
-git init
-```  
+
 
 2. # Make Connection:-  
 ```
