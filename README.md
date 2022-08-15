@@ -83,3 +83,9 @@ or
 
 git remote -v
 ```  
+# Clone Remote Repository(copy):-
+## You have to type on cmd is as folloes  
+```
+git clone http://github.com/md-ajjj/file-add-into-git.git
+```  
+
