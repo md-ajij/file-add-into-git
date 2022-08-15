@@ -28,6 +28,25 @@ git add .
 ```
 git commit -m "File and folder insert intto github"
 ```  
+## 4. For git Status:-  
+```
+git status
+```  
+## 5. To see git commit enter the following comand:-  
+```
+git log
+```  
+or  
+
+### 5.1 
+```
+git log --oneline
+```  
+## 6. 
+```
+git status
+```  
+
 4.
 ```
 git remote add origin https://github.com/repositorey name dite hobe
