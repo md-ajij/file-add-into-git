@@ -67,4 +67,19 @@ git remote add name <REMOTE_URL>
 ```
 git remote add origin http://github.com/md-ajjj/file-add-into-git.git
 ```  
-## Note:- origin means http://github.com/md-ajjj/file-add-into-git.git
+## Note:- origin means http://github.com/md-ajjj/file-add-into-git.git  
+
+# 5. Check remote connection:-  
+
+```
+
+git remote
+
+```  
+
+or  
+
+```
+
+git remote -v
+```  
