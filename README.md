@@ -1,4 +1,4 @@
-# file-add-into-git
+# file-add-into-github
 How to folder and file push or upload into github  
 ## you have to install Git Bash  
 ## or open VS Code or cmd and open folder that you want to push into github   
