@@ -2,6 +2,13 @@
 How to folder and file push or upload into github  
 ## you have to install Git Bash  
 ## or open VS Code or cmd and open folder that you want to push into github   
+echo "# gggg" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/md-ajij/gggg.git
+git push -u origin main
 ### 1. To check git status  
 ```
 git status
