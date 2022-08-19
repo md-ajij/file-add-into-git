@@ -1,6 +1,7 @@
 # file-add-into-git
-How to folder and file push into github  
-## you have open VS Code or cmd and open folder  
+How to folder and file push or upload into github  
+## you have to install Git Bash  
+## or open VS Code or cmd and open folder that you want to push into github   
 ### 1. To check git status  
 ```
 git status
@@ -14,10 +15,10 @@ git init
 ```  
 ## 3.
 ```
-git add file name with extension
+git add file name with extension that you will push into github  
 ```  
-or  
-## 3.1 If you push folder then enter the following command on VS Code or cmd  
+# or  
+## If you push folder then enter the following command on VS Code or cmd  
 
 
 ```
