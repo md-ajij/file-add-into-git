@@ -17,7 +17,8 @@ git init
 ```
 git add README.md
 ```  
-# or  to add all the files of a folder
+### or  
+##### (to add all the files of a folder)
 ```
 git add .
 ```  
