@@ -3,7 +3,7 @@ How to folder and file push or upload into github
 ## you have to install Git Bash  
 ## or open VS Code or cmd and open folder that you want to push into github   
 ---  
-# Support Repository Name salman-khan
+# Supose Repository Name salman-khan
 ## …or create a new repository on the command line 
 
 
