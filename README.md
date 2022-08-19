@@ -17,6 +17,12 @@ git init
 ```
 git add README.md
 ```  
+# or  to add all the files of a folder
+```
+git add .
+```  
+
+
 ```
 git commit -m "first commit"
 ```  
@@ -41,6 +47,8 @@ git branch -M main
 git push -u origin main
 ```  
 ---  
+---  
+# Now we discuss all the process bellow
 
 ### 1. To check git status  
 ```
